@@ -10,9 +10,9 @@ int main(){
       j = idade;
 
       if(idade >=18)
-        printf("\nVc eh maior de idade.");
+        printf("Vc eh maior de idade.\n");
       else
-        printf("\nVc nao eh maior de idade.");
+        printf("Vc nao eh maior de idade.\n");
     }
 
   return 0;
