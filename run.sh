@@ -1,4 +1,3 @@
-cd Atividades
-cd RevisitandoLog
-gcc q7.c -o q7
-./q7
+cd Atividades/RevisitandoLog/AtvFuncoes
+gcc q9.c -o q9
+./q9

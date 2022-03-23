@@ -17,8 +17,8 @@ int main(){
   */
   //Segunda forma
   printf("Informe o seu nome: ");
-  fgets( nome, TAMANHO_NOME, stdin);
-    retiraNovaLinha( nome );
+  fgets(nome, TAMANHO_NOME, stdin);
+    retiraNovaLinha(nome);
 
   printf("Informe sua matricula: ");
   scanf("%lf", &matricula);

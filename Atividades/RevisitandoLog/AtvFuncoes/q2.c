@@ -11,7 +11,7 @@ int main(){
       printf("Valor 1: ");
       scanf("%d", &c);
       result = Subt(a, b, c);
-      printf("O valor da subtracao eh %d", result);
+      printf("O valor da subtracao eh: %d", result);
     
       return 0;
 }
