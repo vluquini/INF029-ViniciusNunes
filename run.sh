@@ -1,3 +1,3 @@
-cd Atividades/RevisitandoLog/AtvFuncoes
-gcc q9.c -o q9
-./q9
+cd Trabalho1/
+gcc corretor.c ViniciusNunes20212160034.c -o testQ3
+./testQ3
