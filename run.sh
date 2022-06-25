@@ -1,3 +1,3 @@
-cd Trabalho1/
-gcc corretor.c ViniciusNunes20212160034.c -o testQ3
-./testQ3
+cd Trabalho3/
+gcc qz21.c  -o qz21
+./qz21
